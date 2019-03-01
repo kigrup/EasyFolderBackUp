@@ -1,0 +1,10 @@
+C:\Users\Raulllll\source\repos\BackUpX\BackUpX\bin\Debug\BackUpX.exe.config
+C:\Users\Raulllll\source\repos\BackUpX\BackUpX\bin\Debug\BackUpX.exe
+C:\Users\Raulllll\source\repos\BackUpX\BackUpX\bin\Debug\BackUpX.pdb
+C:\Users\Raulllll\source\repos\BackUpX\BackUpX\obj\Debug\BackUpX.csprojAssemblyReference.cache
+C:\Users\Raulllll\source\repos\BackUpX\BackUpX\obj\Debug\BackUpX.Form1.resources
+C:\Users\Raulllll\source\repos\BackUpX\BackUpX\obj\Debug\BackUpX.Properties.Resources.resources
+C:\Users\Raulllll\source\repos\BackUpX\BackUpX\obj\Debug\BackUpX.csproj.GenerateResource.cache
+C:\Users\Raulllll\source\repos\BackUpX\BackUpX\obj\Debug\BackUpX.csproj.CoreCompileInputs.cache
+C:\Users\Raulllll\source\repos\BackUpX\BackUpX\obj\Debug\BackUpX.exe
+C:\Users\Raulllll\source\repos\BackUpX\BackUpX\obj\Debug\BackUpX.pdb
